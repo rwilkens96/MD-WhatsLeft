@@ -1,0 +1,8 @@
+{
+  "vendor" = "Robert D. Wilkens"
+  "module_build" = "9"
+  "vendor.url" = "http://RobertDWilkensTC.com/"
+  "module_name" = "What's Left"
+  "module_desc" = "<html><body><title>What's Left</title><p>This will simply tell you how much money you have left until your next income (after scheduled bills), and how much per day that breaks down to, for a particular bank account.</p></body></html>"
+  "desc" = "After Scheduled Bill Reminders, How much money is left until next income, and how much per day does that break down to, for a particular bank account."
+}
